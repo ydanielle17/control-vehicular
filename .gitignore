@@ -1,0 +1,5 @@
+servidor
+cliente
+*.dat
+bin/
+datos/
